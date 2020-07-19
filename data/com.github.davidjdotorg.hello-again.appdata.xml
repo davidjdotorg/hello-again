@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2020 David Johnson <github@davidj.org> -->
+<component type="desktop">
+    <id>com.github.davidjdotorg.hello-again</id>
+    <metadata_license>CC0</metadata_license>
+    <name>Hello Again</name>
+    <summary>Hello, Hellow!</summary>
+    <description>
+      <p>A quick summary.  Hello!</p>
+    </description>
+    <custom>
+      <value key="x-appcenter-color-primary">#666</value>
+      <value key="x-appcenter-color-primary-text">rgb(255,255,255)</value>
+      <value key="x-appcenter-suggested-price">0</value>
+    </custom>
+</component>
